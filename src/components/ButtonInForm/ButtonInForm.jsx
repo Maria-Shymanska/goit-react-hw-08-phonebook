@@ -1,6 +1,6 @@
 import { ButtonAddContact } from './ButtonInForm.styled';
 import { AiFillFileAdd } from 'react-icons/ai';
-import { iconSize } from 'constants';
+import { iconSize } from '../../constants/iconSize';
 import { Spiner } from 'utils/Spiner/Spiner';
 import PropTypes from 'prop-types';
 
