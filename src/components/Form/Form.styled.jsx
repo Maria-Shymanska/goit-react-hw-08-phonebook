@@ -5,7 +5,7 @@ export const MainForm = styled(Form)`
   position: relative;
   max-width: 300px;
   padding: 20px;
-  border: black;
+  border: 1px solid black;
   border-radius: 4px;
 `;
 

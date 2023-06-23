@@ -8,8 +8,6 @@ export const ItemList = styled.li`
     width: 8px;
     height: 8px;
     border-radius: 50%;
-
-    background-color: ${props => props.theme.colors.black};
     margin-right: 15px;
     margin-left: 15px;
   }
